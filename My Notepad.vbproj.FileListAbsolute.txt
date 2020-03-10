@@ -1,0 +1,12 @@
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\bin\Release\My Notepad.exe.config
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\bin\Release\My Notepad.exe
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\bin\Release\My Notepad.pdb
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\bin\Release\My Notepad.xml
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My_Notepad.Form1.resources
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My_Notepad.Form2.resources
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My_Notepad.Resources.resources
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My Notepad.vbproj.GenerateResource.cache
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My Notepad.vbproj.CoreCompileInputs.cache
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My Notepad.exe
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My Notepad.xml
+C:\Users\jdwoo090\source\repos\My Notepad\My Notepad\obj\Release\My Notepad.pdb
